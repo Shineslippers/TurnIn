@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Turn In
+## Notes: Automates the selection of quest and gossip options
+## Author: Sabindeus, Totori
+## Version: 1.0
+## X-Compatible-With: 40000
+## SavedVariables: TI_status, TI_NPCDB, TI_NPCIndex
+
+TurnIn.xml
